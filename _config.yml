@@ -3,9 +3,9 @@
 menu:
   Home: ../
   Blog: /
-  Topic: /tags/Topic
-  Story: /tags/Story
-  Tech: /tags/Tech
+  Topic: /categoriestags/Topic
+  Story: /categoriestags/Story
+  Tech: /categories/Tech
 
 # SubNav
 subnav:
@@ -38,7 +38,7 @@ root: /blog/
 # 文章太长，截断按钮文字
 excerpt_link: more
 # 文章卡片右下角常驻链接，不需要请设置为false
-show_all_link: '展开全文'
+show_all_link: 'VIEW THE POST'
 # 数学公式
 mathjax: true
 # 是否在新窗口打开链接
@@ -67,11 +67,11 @@ top: true
 
 # Miscellaneous
 baidu_analytics: ''
-google_analytics: ''
+google_analytics: 'UA-113773075-1'
 favicon: /assets/images/qpy.ico
 
 #你的头像url
-avatar:
+avatar: /blog/img/Storms.jpg
 
 #是否开启分享
 share_jia: true
