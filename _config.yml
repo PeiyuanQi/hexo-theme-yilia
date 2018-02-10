@@ -3,8 +3,8 @@
 menu:
   Home: ../
   Blog: /
-  Topic: /categoriestags/Topic
-  Story: /categoriestags/Story
+  Topic: /categories/Topic
+  Story: /categories/Story
   Tech: /categories/Tech
 
 # SubNav
