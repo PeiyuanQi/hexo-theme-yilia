@@ -1,7 +1,7 @@
 # Header
 
 menu:
-  Home: ../
+  Home: https://peiyuanqi.me
   Blog: /
   Topic: /categories/Topic
   Story: /categories/Story
@@ -9,7 +9,7 @@ menu:
 
 # SubNav
 subnav:
-  rss: "rss2.xml"
+  rss: "atom.xml"
   github: "https://github.com/PeiyuanQi"
   #weibo: "#"
   zhihu: "https://zhuanlan.zhihu.com/c_114241198"
@@ -26,7 +26,7 @@ subnav:
   #twitter: "#"
   #linkedin: "https://www.linkedin.com/in/peiyuanqi/"
 
-rss: /rss2.xml
+rss: /atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
@@ -68,10 +68,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: 'UA-113773075-1'
-favicon: /assets/images/qpy.ico
+favicon: /img/qpy.ico
 
 #你的头像url
-avatar: /blog/img/Storms.jpg
+avatar: /img/Storms.jpg
 
 #是否开启分享
 share_jia: true
@@ -125,5 +125,7 @@ smart_menu:
 friends:
   Ticco's Website: http://tangzhuofan.com/
   Nathan's Website: https://zzhou612.me/
+  WYM's Website: https://wym.me/
+  Walden's Blog: https://waldenlian.github.io/
 
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
