@@ -118,7 +118,7 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: 'Archive'
+  innerArchive: 'Archive '
   friends: 'Find More'
   #aboutme: '关于我'
 
