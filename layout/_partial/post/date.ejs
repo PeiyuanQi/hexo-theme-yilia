@@ -3,7 +3,7 @@
 		<i class="icon-calendar icon"></i>
 		<% var today = date(post.date, date_format); %>
 		<% if( today == date(new Date, date_format) ){ %>
-		<%- "Today"   %>
+		<%- "Latest"   %>
 		<% }else{ %>
 		<%-	 today  %>
 		<% } %>

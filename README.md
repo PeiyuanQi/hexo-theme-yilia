@@ -1,4 +1,4 @@
-hexo-theme-yilia (Modified by PQI)
+hexo-theme-yilia (Personal Customized)
 ================
 
 Forked from [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia).
@@ -7,6 +7,8 @@ Modified based on personal needs.
 # Changes Compared with Original Yilia:
 - Fix problem of badjs receiver closed.
 - Change data.ejs hanzi to English to show "Today" for today's post.
+  - Known Issue: Static website generated, it means if user does not regenerate a website after the the day a post is posted, its post date will remain to be Today
+  - Temporary change to "Latest" instead of "Today"
 
 # Usage
 
