@@ -31,7 +31,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: /
+root: /blog/
 
 # Content
 
@@ -68,10 +68,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: 'UA-113773075-1'
-favicon: /img/qpy.ico
+favicon: /assets/imgs/qpy.ico
 
 #你的头像url
-avatar: /img/Storms.jpg
+avatar: /assets/imgs/Storms.jpg
 
 #是否开启分享
 share_jia: true
