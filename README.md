@@ -22,6 +22,10 @@ $ git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
 
 change `_config.yml` in hexo directory： `theme: yilia`
 
+#### Set Read More Abstract
+
+add `<!-- more -->` in your markdown file at the place where you want to cut off the preview of the post.
+
 #### Update (Deprecated)
 
 ``` bash
